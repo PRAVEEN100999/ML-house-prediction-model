@@ -1,0 +1,12 @@
+model output 
+1 desicion tree
+ Mean : 4.257111716881481 (main value)
+ standred deviation : 0.7128253305976302 (+/- from main value)
+
+2. linear regression:
+ Mean : 5.037482786117751
+ standred deviation : 1.0594382405606948
+
+3. random forest :
+ Mean : 3.4737861350603767
+ standred deviation : 0.8382761842215383
